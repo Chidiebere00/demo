@@ -1,2 +1,2 @@
 # Demo
-A demo git repository with another twist
+A demo git repository with yet another twist
